@@ -32,7 +32,7 @@
     "chalk": "^4.0.0",
     "debug": "^4.1.1",
     "loopback-connector": "^5.0.0",
-    "pg": "^8.0.2",
+    "pg": "8.5.1",
     "strong-globalize": "^6.0.0",
     "uuid": "^8.3.0"
   },
